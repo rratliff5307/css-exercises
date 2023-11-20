@@ -1,0 +1,9 @@
+div {
+    margin: auto;
+    text-align: center;
+    background-color: red;
+    color: white; 
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
